@@ -1,0 +1,16 @@
+.movieContainer {
+    border: 1px solid #ccc;
+    /*background-color: gray;*/
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    min-width: 200px;
+}
+.btnPrimary{
+    background-color: #704cb6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
